@@ -1,0 +1,117 @@
+name: goal_diggers
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  esewa_flutter_sdk:
+    path: ./esewa_flutter_sdk
+    
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.10.1
+  firebase_auth: ^5.4.1
+  shared_preferences: ^2.5.2
+  photo_view: ^0.15.0
+  carousel_slider: ^5.0.0
+  flutter_bloc: ^9.0.0
+  image_picker: ^1.1.2
+  flutter_rating_bar: ^4.0.1
+  get: ^4.7.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
+    - assets/images/ball.png
+    - assets/images/boots.png
+    - assets/images/jersey.png
+    - assets/images/retro.png
+    - assets/images/track.png
+    - assets/images/socks.png  
+    - assets/images/manua.png
+    - assets/images/manuh.png
+    - assets/images/manut.png
+    - assets/images/reala.png
+    - assets/images/realh.png
+    - assets/images/realt.png
+    - assets/images/barcah.png
+    - assets/images/barcaa.png
+    - assets/images/manul.png
+    - assets/images/shittyl.png
+    - assets/images/liverl.png
+    - assets/images/psgl.png
+    - assets/images/reall.png
+    - assets/images/barcal.png
+    - assets/images/bayernl.png
+    - assets/images/arsenall.png
+    - assets/images/noimage.png
+    - assets/images/special1.png
+    - assets/images/barcat.png
+    - assets/images/barcasp.png
+    - assets/images/arsenh.png
+    - assets/images/arsena.png
+    - assets/images/arsent.png
+    - assets/images/poolh.png
+    - assets/images/poola.png
+    - assets/images/poolt.png
+    - assets/images/shittyh.png
+    - assets/images/shittya.png
+    - assets/images/shittyt.png
+    - assets/images/shittysp.png
+    - assets/images/bayernh.png
+    - assets/images/bayerna.png
+    - assets/images/bayernt.png
+    - assets/images/psgh.png
+    - assets/images/psga.png
+    - assets/images/psgt.png
+    - assets/images/nike_mercurial.png
+    - assets/images/adidas_predator.png
+    - assets/images/puma_future.png
+    - assets/images/nb_tekela.png
+    - assets/images/nike_gato.png
+    - assets/images/adidas_copa.png
+    - assets/images/joma_topflex.png
+    - assets/images/puma_king.png
+    - assets/images/mryod.png
+    - assets/images/molten.png
+    - assets/images/pl.png
+    - assets/images/cl.png
+    - assets/images/uel.png
+    - assets/images/manuset1.png
+    - assets/images/manuset2.png
+    - assets/images/manuset3.png
+    - assets/images/realset1.png
+    - assets/images/realset2.png
+    - assets/images/barcaset.png
+    - assets/images/shittyset.png
+    - assets/images/poolset.png
+    - assets/images/manu1999.png
+    - assets/images/manu1996.png
+    - assets/images/manu06.png
+    - assets/images/rooneyretro.png
+    - assets/images/real99.png
+    - assets/images/real13.png
+    - assets/images/barca1996.png
+    - assets/images/barca8.png
+    - assets/images/barca14.png
+    - assets/images/manu07.png
+    - assets/images/1.png
+    - assets/images/2.png
+    - assets/images/3.png
+    - assets/images/4.png
+    - assets/images/5.png
+    - assets/images/esewa.png
+    - assets/images/khalti.png
+    - assets/images/cash.png

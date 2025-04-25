@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407225535957",
+    "project_id": "goal-diggers-c62ca",
+    "storage_bucket": "goal-diggers-c62ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407225535957:android:b49fc6bef42b179f9c415c",
+        "android_client_info": {
+          "package_name": "com.example.goal_diggers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf99ggmeCJNuenTCFE-fD5IoecAtjsHH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
